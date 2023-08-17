@@ -1,6 +1,6 @@
 # Hi <img src="/assets/wave.gif?raw=true" width="30" alt="Waving Emoji">, I'm Devon <img src="https://komarev.com/ghpvc/?username=devonzara&label=VIEWS%20&color=272727&style=flat-square" align="right" />
 
-I'm a full-stack software engineer with a passion for creating, learning, and teaching.
+Software Engineer with 10+ years of experience in front-end and back-end development. Excels at troubleshooting and debugging, taking pride in collaborative work and mentoring others. Demonstrates a growth-oriented attitude, driven by curiosity for problem-solving, and a commitment to embracing new challenges and technologies.
 
 ### Connect with Me
 [<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with devonzara on LinkedIn" height="25" />](https://linkedin.com/in/devonzara)
